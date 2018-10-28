@@ -1,0 +1,20 @@
+@media (max-width: 767px) {
+  /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+  .body-content {
+    padding-top: 50px;
+  
+  }
+}
+
+.nav-extended {
+  background-color:#f48fb1 ;
+  
+ }
+
+.nav-wrapper p {
+  font-size: 20px;
+}
+.nav-content li a{
+  font-size: 20px;
+}
+
